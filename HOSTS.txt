@@ -1,6 +1,8 @@
+
 #Blocking Distractions
 
-0.0.0.0    instagram.com/p/*
-0.0.0.0    youtube.com/shorts/*
+0.0.0.0    facebook.com
+0.0.0.0    instagram.com/p/
+0.0.0.0    youtube.com/shorts/
 0.0.0.0    tiktok.com
 0.0.0.0    musical.ly
