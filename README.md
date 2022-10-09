@@ -12,7 +12,7 @@
 
 
 ```
-cd /d Location of the file
+cd /d LocationOfTheFile
 ```
 
 ```
