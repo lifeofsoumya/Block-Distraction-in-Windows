@@ -1,1 +1,1 @@
-type HOSTS.txt >> C:\windows\system32\drivers\etc\hosts
+type HOSTS.txt HOSTS2.txt >> C:\windows\system32\drivers\etc\hosts
