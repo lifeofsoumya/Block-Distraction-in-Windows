@@ -1,1 +1,1 @@
-sudo cat HOSTS.txt >> /etc/hosts
+sudo cat HOSTS.txt HOSTS2.txt HOSTS3.txt >> /etc/hosts
