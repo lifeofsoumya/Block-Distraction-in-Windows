@@ -1,3 +1,6 @@
+# Adults lists collected from 4skinSkywalker/Anti-Porn-HOSTS-File
+
+
 0.0.0.0    0.nextyourcontent.com
 0.0.0.0    000free.us
 0.0.0.0    0013langford.tumblr.com
